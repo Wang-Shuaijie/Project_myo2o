@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 public class FrontendController {
 	@RequestMapping(value = "/mainpage", method = RequestMethod.GET)
 	private String showMainPage() {
-		return "frontend/mainpage";
+		return "frontend/index";
 	}
 
 	@RequestMapping(value = "/productdetail", method = RequestMethod.GET)
