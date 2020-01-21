@@ -11,7 +11,7 @@
 	
 	<properties>
 		<!-- spring框架版本 -->
-		<spring.version>5.1.6.RELEASE</spring.version>
+		<spring.version>5.2.3.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<!-- 单元测试 -->
